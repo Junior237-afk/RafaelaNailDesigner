@@ -1,13 +1,13 @@
-const SUPABASE_URL = "https://tiqhpovsmieiztoqowfo.supabase.co";
+const SUPABASE_URL = "https://dpmzewokoxoslotijjis.supabase.co";
 
-const SUPABASE_KEY = "sb_publishable_zxeT6yaNuEi0iZuqMbH_yA_75L1NWJZ";
+const SUPABASE_KEY = "sb_publishable_r4gsCdKoKzs3U3_89IBOPQ_nCI0lNR0";
 
 const supabaseClient = supabase.createClient(
     SUPABASE_URL,
     SUPABASE_KEY
 );
 
-const CLIENTE_SLUG = "cliente-teste";
+const CLIENTE_SLUG = "rafaela-cardoso";
 
 let clienteAtual = null;
 
