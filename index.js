@@ -1,6 +1,6 @@
 const SUPABASE_URL = "https://dpmzewokoxoslotijjis.supabase.co";
 
-const SUPABASE_KEY = "sb_publishable_r4gsCdKoKzs3U3_89IBOPQ_nCI0lNR0";
+const SUPABASE_KEY = "sb_publishable_r4gsCdKoKzs3U3_89IBOPQ_nCI0lNR0"
 
 const supabaseClient = supabase.createClient(
     SUPABASE_URL,
